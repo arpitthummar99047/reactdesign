@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.abd64e84.css",
-    "main.js": "/static/js/main.ade49d04.js",
-    "static/js/787.4c026eef.chunk.js": "/static/js/787.4c026eef.chunk.js",
-    "static/media/Lion`s News logo.svg": "/static/media/Lion`s News logo.fd690fe51cc99151a76ad901c18b9936.svg",
+    "main.css": "/static/css/main.62a18e5f.css",
+    "main.js": "/static/js/main.0da445a9.js",
+    "static/js/787.482ae268.chunk.js": "/static/js/787.482ae268.chunk.js",
     "index.html": "/index.html",
-    "main.abd64e84.css.map": "/static/css/main.abd64e84.css.map",
-    "main.ade49d04.js.map": "/static/js/main.ade49d04.js.map",
-    "787.4c026eef.chunk.js.map": "/static/js/787.4c026eef.chunk.js.map"
+    "main.62a18e5f.css.map": "/static/css/main.62a18e5f.css.map",
+    "main.0da445a9.js.map": "/static/js/main.0da445a9.js.map",
+    "787.482ae268.chunk.js.map": "/static/js/787.482ae268.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abd64e84.css",
-    "static/js/main.ade49d04.js"
+    "static/css/main.62a18e5f.css",
+    "static/js/main.0da445a9.js"
   ]
 }
